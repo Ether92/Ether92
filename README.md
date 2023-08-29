@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ether92
+- 👋 Hi, I’m @Ether92 or Levi
 - 👀 I’m interested in: Making a Scratch(.sb3) compiler
 - 🌱 I’m currently learning About how to edit and interact with Metamask and how to edit .sb3 files
 - 💞️ I’m looking to collaborate on https://discord.gg/NJsV7PNm
